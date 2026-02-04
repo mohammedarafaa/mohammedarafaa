@@ -2,8 +2,6 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" />
 
-#  Hi, I'm Mohammed Arafa
-
 ###  Frontend Developer | Angular & React
 
 <a href="https://git.io/typing-svg">
